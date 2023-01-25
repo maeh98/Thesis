@@ -1,5 +1,5 @@
 # Master Thesis 2021-2022
-Quorum Sensing Modelling for Pseudomonas Aeruginosa. /
+Quorum Sensing Modelling for Pseudomonas Aeruginosa. \
 Supervisor and Coordinator: Prof. Johannes Müller
 
 Abstract:
