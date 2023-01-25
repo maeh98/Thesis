@@ -1,4 +1,4 @@
-# Thesis
+# Thesis 2021-2022
 Quorum Sensing Modelling for Pseudomonas Aeruginosa
 
 Abstract:
