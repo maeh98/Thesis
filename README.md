@@ -1,8 +1,8 @@
-## Master Thesis 2021-2022
+# Master Thesis 2021-2022
 Quorum Sensing Modelling for Pseudomonas Aeruginosa. \
 Supervisor and Coordinator: Prof. Johannes Müller
 
-# Intro
+## Intro
 Quorum Sensing is a cell density dependent cooperative behaviour found in bacteria, 
 while Pseudomonas Aeruginosa is a drug-resistant pathogen that causes thousands of deaths in hospital settings.
 My mathematical models explain and predict several dynamics at different scales using Ordinary Differential Equations (ODEs) and stochastic processes. 
@@ -11,13 +11,13 @@ One cool achievement was that I reproduced complex "switch-like" behavior where 
 Demonstrated how the system can lose this complex switching in favor of simpler gradual activation under certain conditions.
 The model results are consistent with empirical results.
 
-# Abstract:
+## Abstract:
 We aim in this study to simulate the cooperative behaviour of bacterium Pseudomonas aeruginosa, a particularly dangerous pathogen in hospital settings. This bacterium employs several cooperative behavioral strategies to regulate virulence. Among them is Quorum Sensing, where the bacteria act differently depending on the cell concentration, measured through some signalling molecules. We aim to explain, predict and reproduce Quorum Sensing through our models. In addition, we attempt to replicate the bi-stable behaviour observed in experimental data. The model we have developed explains several dynamics at different scales using Ordinary Differential Equations (ODEs) and stochastic processes. The global dynamics at the colony level are explained through a deterministic model, while a stochastic model predicts the local cell-level dynamics. With experimental data and bifurcation analysis, we chose a parameter set that could show bi-stable behaviour. We analysed the stochastic model by simulating the distribution of the Master equations resulting from the stochastic process. All the simulations were implemented in Python using standard numerical integration techniques. The model has been successful in explaining quorum sensing behaviour in agreement with experimental data.
 
 This repository stores the code I worked on in my master thesis.
 You need to run the \__main\__.py file.
 
-# CODE STRUCTURE
+## CODE STRUCTURE
 STRUCTURE:
  - Import Packages.
  - Set the data (from outside sources). 
